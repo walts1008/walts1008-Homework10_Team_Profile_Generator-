@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/walts1008/Homework-10.git"
+    "url": "git+https://github.com/walts1008/Homework10.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/walts1008/Homework-10/issues"
+    "url": "https://github.com/walts1008/Homework10/issues"
   },
-  "homepage": "https://github.com/walts1008/Homework-10#readme",
+  "homepage": "https://github.com/walts1008/Homework10#readme",
   "dependencies": {
     "deploy": "^1.0.3"
   }
