@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://walts1008.github.io/Homework10/"
+    "url": "git+https://github.com/walts1008/Homework10"
   },
   "author": "",
   "license": "ISC",
@@ -21,6 +21,7 @@
   },
   "homepage": "http://walts1008.github.io/Homework10",
   "dependencies": {
+    "deploy": "^1.0.3",
     "inquirer": "^6.3.1"
   },
   "devDependencies": {
