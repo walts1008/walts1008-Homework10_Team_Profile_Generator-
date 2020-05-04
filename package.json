@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/walts1008/Homework-10/issues"
   },
-  "homepage": "https://github.com/walts1008/Homework-10#readme"
+  "homepage": "https://github.com/walts1008/Homework-10#readme",
+  "dependencies": {
+    "deploy": "^1.0.3"
+  }
 }
