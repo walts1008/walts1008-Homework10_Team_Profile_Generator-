@@ -1,29 +1,22 @@
 {
-  "name": "team_profile_generator",
+  "name": "homework-10-teamprofilegenerator",
   "version": "1.0.0",
-  "description": "As a manager I want to generate a webpage that displays my team's basic info so that I have quick access to emails and GitHub profiles",
+  "description": "",
   "main": "app.js",
   "directories": {
-    "lib": "lib",
-    "test": "test"
+    "lib": "lib"
   },
   "scripts": {
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/walts1008/Homework10.git"
+    "url": "git+https://github.com/walts1008/Homework-10.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/walts1008/Homework-10/issues"
   },
-  "homepage": "https://github.com/walts1008/Homework10",
-  "dependencies": {
-    "inquirer": "^6.3.1"
-  },
-  "devDependencies": {
-    "jest": "^24.8.0"
-  }
+  "homepage": "https://github.com/walts1008/Homework-10#readme"
 }
