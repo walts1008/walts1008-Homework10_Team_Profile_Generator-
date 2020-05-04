@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://walts1008.github.io/Homework10/"
   },
-  "homepage": "https://walts1008.github.io/Homework10/",
+  "homepage": "http://walts1008.github.io/Homework10",
   "dependencies": {
     "inquirer": "^6.3.1"
   },
