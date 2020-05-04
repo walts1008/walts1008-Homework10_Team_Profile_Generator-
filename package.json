@@ -1,27 +1,26 @@
 {
-  "name": "unit10hw",
+  "name": "team_profile_generator",
   "version": "1.0.0",
-  "description": "OOP week 10 homework",
+  "description": "As a manager I want to generate a webpage that displays my team's basic info so that I have quick access to emails and GitHub profiles",
   "main": "app.js",
   "directories": {
-    "library": "library",
+    "lib": "lib",
     "test": "test"
   },
   "scripts": {
-    "test": "jest --verbose test/*"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/walts1008/Homework10"
+    "url": "git+https://github.com/walts1008/Homework10.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://walts1008.github.io/Homework10/"
+    "url": ""
   },
-  "homepage": "http://walts1008.github.io/Homework10",
+  "homepage": "https://github.com/walts1008/Homework10",
   "dependencies": {
-    "deploy": "^1.0.3",
     "inquirer": "^6.3.1"
   },
   "devDependencies": {
